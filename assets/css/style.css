@@ -1,0 +1,57 @@
+.foto-perfil{
+    border-radius: 100%;
+    border: 1px solid black;
+    max-width: 200px;
+    margin-left: 45px;
+
+}
+
+.geral{
+    border: 5px solid rgb(103, 168, 233);
+    background-color: rgb(103, 168, 233);
+    width: 300px;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+body{
+    background-color:rgba(207, 209, 211, 0.89);
+    margin-right: 900px;
+       
+}
+
+.foto{
+    left: 300px;
+    width: 300px;
+    background-color: rgb(103, 168, 233);
+    float: left;
+}
+
+.cabeçalho1{
+    left: 300px;
+    width: 300px;
+    background-color: rgb(103, 168, 232);
+    margin-left: 0px;
+    float:left
+}
+
+.cabeçalho2{
+    left: 300px;
+    width: 300px;
+    background-color: rgb(102, 168, 235);
+    margin-left: 0px;
+    float: left;
+
+}
+
+.container1{
+    float: right;
+    text-align: center;
+    border: 1px solid red;
+
+}
