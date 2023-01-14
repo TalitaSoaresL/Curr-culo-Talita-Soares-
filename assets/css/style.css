@@ -20,8 +20,8 @@ h1{
 }
 
 body{
-    background-color:rgba(207, 209, 211, 0.89);
-    margin-right: 900px;
+
+    background-color:rgba(207, 209, 211, 0.89);    
        
 }
 
@@ -37,6 +37,7 @@ body{
     width: 300px;
     background-color: rgb(103, 168, 232);
     margin-left: 0px;
+    margin-right: 4px;
     float:left
 }
 
@@ -45,13 +46,139 @@ body{
     width: 300px;
     background-color: rgb(102, 168, 235);
     margin-left: 0px;
+    margin-right: 4px;
     float: left;
 
 }
 
-.container1{
-    float: right;
-    text-align: center;
-    border: 1px solid red;
+.row1{
 
+    float: left;
+    margin-left: 60px;
+    margin-top: -360px;
+    padding-right: 600px;
+   
+
+    
+}
+.row2{
+    float: left;
+    margin-left: 260px;
+    padding: 50px;
+    margin-top: -810px;
+    
+    
+
+}
+
+.row3{
+    float: left;
+    margin-left: 370px;
+    margin-top:-650px;
+    padding-right: 300px;
+
+}
+
+.row4{
+    float: left;
+    margin-left: 260px;
+    padding: 50px;
+    margin-top: -630px
+}
+
+.row5{
+    float: left;
+    margin-left: 370px;
+    margin-top:-505px;
+    padding-right:200px;
+}
+
+.row6{
+    float: left;
+    margin-left: 260px;
+    padding: 50px;
+    margin-top:-480px;
+}
+
+.row7{
+    float: left;
+    margin-left: 370px;
+    margin-top:-350px;
+    padding-right:150px;
+}
+
+.row8{
+    float: left;
+    margin-left: 260px;
+    padding: 50px;
+    margin-top:-320px;
+}
+
+.whatsapp-link{
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+
+}
+
+.fa-whatsapp{
+    margin-top: 16px;
+}
+
+.gmail-link{
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-gmail{
+    margin-top: 16px;
+}
+
+.linkedin-link{
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-linkedin{
+    margin-top: 16px;
+}
+
+.github-link{
+    width: 60px;
+    height: 60px;
+    right: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-github{
+    margin-top: 16px;
 }
